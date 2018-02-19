@@ -15,5 +15,5 @@ public class Czlowiek {
         System.out.println(Marta.getImie());
         System.out.println(Marta.nazwisko);
     }
-    bla bla bla
+    bla bla bla bvla
 }
